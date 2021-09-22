@@ -28,6 +28,7 @@ public class Hauteskundeak {
 		h2021.gehituMahaia("Andoain");
 		h2021.gehituMahaia("Hernani");
 		h2021.gehituMahaia("Bilbao");      //beste kide baten kodean egindako aldaketa
+		h2021.gehituMahaia("Zamudio");     //3.pdf-ko beste kidearen aldaketa
 
 		System.out.println(h2021);
 	}
